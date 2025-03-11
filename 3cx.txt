@@ -1,0 +1,19 @@
+browser: Google Chrome
+profile: Default
+url: https://mersinport.3cx.com.tr:5001/
+login: admin
+password: Mip426457!
+
+browser: Google Chrome
+profile: Default
+url: https://pimtas.3cx.com.tr:5001/
+login: admin
+password: }zPZ)&C9cnH_$+(&
+
+url: https://eminevim3cx.3cx.com.tr:5001/
+login: admin
+password: UrCL2EHSn3f9PRjx
+
+
+Worked 3cx Panelleri için 
+PM
